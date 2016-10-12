@@ -1,2 +1,0 @@
-# glpi
-Despliegue de glpi
